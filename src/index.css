@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@plugin "daisyui";
+@import "tailwindcss";
+
+
+@theme{
+    --font-dmsans:"DM Sans", sans-serif;
+    --font-chivo: "Chivo", sans-serif;
+    --color-secondary1:#43E7DF;
+    --color-header:#2C2643;
+    --color-para:#645E76;
+    --color-bluebutton:#3639A4;
+    
+}
+
+.slick-list{
+    border-radius: 20px !important;
+   
+}
+.slick-track{
+    padding-top: 80px !important;
+
+}
+
+
+/* .slick-initialized .slick-slide {
+	display: flex;
+    flex-direction: column !important;
+	padding: 20px !important ;
+   
+    
+	
+}*/
+/* .slick-slide {
+	 display: none; 
+	
+    width: 300px !important;
+	
+
+}  */
+
+/* In App.css */
+
+/* .slick-slide div{
+  background: #ddd;
+  padding: 40px;
+  text-align: center;
+  font-size: 1.5em;
+} */
+
+
+
+/* .img1{
+width: 100%;
+height: 637px !important;
+}
+
+
+
+@media (max-width:950px) { 
+   .img1{
+width: 100%;
+height: 200px !important;
+} 
+} */
