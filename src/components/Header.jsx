@@ -1,7 +1,7 @@
 import Container from './Container';
 import laptop from '../assets/laptop.png'
-import laptopCard from '../assets/laptoCard.png'
-import laptopCard02 from '../assets/laptopCard02.png'
+import laptopCard from '../assets/laptocard.png'
+import laptopCard02 from '../assets/laptopcard02.png'
 
 const Header = () => {
     return (
