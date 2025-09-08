@@ -2,7 +2,7 @@ import React from 'react';
 import Container from './Container';
 import customerImage from '../assets/customerImg.png'
 
-const ReviewpartImg = ({children}) => {
+const ReviewPartImg = ({children}) => {
     return (
         <div>
            <Container>
@@ -13,4 +13,4 @@ const ReviewpartImg = ({children}) => {
     );
 };
 
-export default ReviewpartImg;
+export default ReviewPartImg;
